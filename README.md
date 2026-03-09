@@ -6,7 +6,7 @@ A comprehensive Tableau dashboard analyzing **9,216 Emergency Room patient visit
 
 ##  Dashboard Preview
 
-![Hospital Visits Dashboard](dashboard_screenshot.png)
+![Hospital Visits Dashboard](Hospital ER visits.png)
 
 ---
 
