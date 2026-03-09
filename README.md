@@ -1,22 +1,22 @@
-# 🏥 Hospital Visits Dashboard
+#  Hospital Visits Dashboard
 
 A comprehensive Tableau dashboard analyzing **9,216 Emergency Room patient visits**, uncovering insights around wait times, patient demographics, satisfaction scores, and department referrals.
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Hospital Visits Dashboard](Hospital ER visits.png)
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 This project explores hospital ER data to help healthcare administrators and analysts understand patient flow, identify bottlenecks, and improve patient experience. The dashboard was built entirely in **Tableau Desktop** using real-world structured data.
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - **9,216 total patients** visited the ER, with a near-equal gender split (M: 51.05%, F: 48.69%)
 - **Average wait time** of **35.26 minutes** across all visits
@@ -28,7 +28,7 @@ This project explores hospital ER data to help healthcare administrators and ana
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -37,7 +37,7 @@ This project explores hospital ER data to help healthcare administrators and ana
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Hospital visits Dashboard/
@@ -50,7 +50,7 @@ Hospital visits Dashboard/
 
 ---
 
-## 📌 Visualizations Included
+##  Visualizations Included
 
 - **KPI Cards** — Total patients, Average Wait Time, Average Satisfaction
 - **Patients by Age** — Area chart segmented by age groups (0–18, 18–65, 65+) over time
@@ -60,20 +60,9 @@ Hospital visits Dashboard/
 
 ---
 
-## 🚀 How to Open
-
-1. Download or clone this repository
-2. Open `Hospital visits.twb` in **Tableau Desktop**
-3. Ensure `Hospital ER.csv` is in the same folder (data source path may need re-linking)
-
----
-
-## 👤 Author
 
 **Your Name**
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammad-jibran-5b116894/))
 
----
 
-> 📌 *This project was built as part of my Data Analyst portfolio. Open to Data Analyst & Data Engineering opportunities!*
+
