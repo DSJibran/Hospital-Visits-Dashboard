@@ -61,7 +61,7 @@ Hospital visits Dashboard/
 ---
 
 
-**Your Name**
+**Mohammad Jibran**
 - 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammad-jibran-5b116894/))
 
 
